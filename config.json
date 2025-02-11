@@ -1,0 +1,10 @@
+{
+    "BOT_TOKEN": "BOT_TOKEN",
+    "DATA_FILE": "Video_Storage_Bot/user_data.json",
+    "SALT": "df613558c15ae2f7ad53bc2c71e8447b",
+    "PSWRD_MD5": "cdf0fd1e184d5cc9c99f681038dc0c12",
+    "ADMINS": [
+        "1",
+        "2"
+    ]
+}
